@@ -1,0 +1,49 @@
+D:\software\miniconda\envs\torch\python.exe "D:/Code/Analysis of Time Series/regression/weather/scripts/load_data.py"
+mpi_roof_2009a.csv
+mpi_roof_2009b.csv
+mpi_roof_2010a.csv
+mpi_roof_2010b.csv
+mpi_roof_2011a.csv
+mpi_roof_2011b.csv
+mpi_roof_2012a.csv
+mpi_roof_2012b.csv
+mpi_roof_2013a.csv
+mpi_roof_2013b.csv
+mpi_roof_2014a.csv
+mpi_roof_2014b.csv
+mpi_roof_2015a.csv
+mpi_roof_2015b.csv
+mpi_roof_2016a.csv
+mpi_roof_2016b.csv
+['Date Time' 'p (mbar)' 'T (degC)' 'Tpot (K)' 'Tdew (degC)' 'rh (%)'
+ 'VPmax (mbar)' 'VPact (mbar)' 'VPdef (mbar)' 'sh (g/kg)'
+ 'H2OC (mmol/mol)' 'rho (g/m**3)' 'wv (m/s)' 'max. wv (m/s)' 'wd (deg)']
+Date Time          420551
+p (mbar)           420551
+T (degC)           420551
+Tpot (K)           420551
+Tdew (degC)        420551
+rh (%)             420551
+VPmax (mbar)       420551
+VPact (mbar)       420551
+VPdef (mbar)       420551
+sh (g/kg)          420551
+H2OC (mmol/mol)    420551
+rho (g/m**3)       420551
+wv (m/s)           420551
+max. wv (m/s)      420551
+wd (deg)           420551
+dtype: int64
+             p (mbar)       T (degC)  ...  max. wv (m/s)       wd (deg)
+count  420551.000000  420551.000000  ...  420551.000000  420551.000000
+mean      989.212776       9.450147  ...       3.056555     174.743738
+std         8.358481       8.423365  ...      69.016932      86.681693
+min       913.600000     -23.010000  ...   -9999.000000       0.000000
+25%       984.200000       3.360000  ...       1.760000     124.900000
+50%       989.580000       9.420000  ...       2.960000     198.100000
+75%       994.720000      15.470000  ...       4.740000     234.100000
+max      1015.350000      37.280000  ...      23.500000     360.000000
+
+[8 rows x 14 columns]
+
+Process finished with exit code 0

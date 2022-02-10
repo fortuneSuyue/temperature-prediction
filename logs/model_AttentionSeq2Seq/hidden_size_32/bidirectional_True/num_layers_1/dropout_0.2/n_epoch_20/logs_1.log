@@ -1,0 +1,53 @@
+2022-01-30 17:38:44,776 | torch.Size([70092, 14])
+2022-01-30 17:38:44,779 | 35046, 17523, 17523
+2022-01-30 17:38:44,889 | model: AttentionSeq2Seq
+2022-01-30 17:50:06,241 | model state_dict has been saved in logs\model_AttentionSeq2Seq\hidden_size_32\bidirectional_True\num_layers_1\dropout_0.2\n_epoch_20/best.pth.tar
+2022-01-30 17:51:03,620 | 1****************************************************************************************************
+
+2022-01-30 18:04:48,519 | model state_dict has been saved in logs\model_AttentionSeq2Seq\hidden_size_32\bidirectional_True\num_layers_1\dropout_0.2\n_epoch_20/best.pth.tar
+2022-01-30 18:06:43,642 | 2****************************************************************************************************
+
+2022-01-30 18:17:50,779 | model state_dict has been saved in logs\model_AttentionSeq2Seq\hidden_size_32\bidirectional_True\num_layers_1\dropout_0.2\n_epoch_20/best.pth.tar
+2022-01-30 18:18:43,073 | 3****************************************************************************************************
+
+2022-01-30 18:30:24,791 | 4****************************************************************************************************
+
+2022-01-30 18:41:08,027 | 5****************************************************************************************************
+
+2022-01-30 18:51:46,784 | 6****************************************************************************************************
+
+2022-01-30 19:02:29,295 | 7****************************************************************************************************
+
+2022-01-30 19:13:13,039 | 8****************************************************************************************************
+
+2022-01-30 19:23:52,086 | 9****************************************************************************************************
+
+2022-01-30 19:34:30,091 | 10****************************************************************************************************
+
+2022-01-30 19:45:07,433 | 11****************************************************************************************************
+
+2022-01-30 19:55:44,763 | 12****************************************************************************************************
+
+2022-01-30 20:06:22,848 | 13****************************************************************************************************
+
+2022-01-30 20:17:01,243 | 14****************************************************************************************************
+
+2022-01-30 20:27:39,690 | 15****************************************************************************************************
+
+2022-01-30 20:38:23,166 | 16****************************************************************************************************
+
+2022-01-30 20:49:03,514 | 17****************************************************************************************************
+
+2022-01-30 20:59:49,904 | 18****************************************************************************************************
+
+2022-01-30 21:10:31,679 | 19****************************************************************************************************
+
+2022-01-30 21:21:08,663 | 20****************************************************************************************************
+
+2022-01-30 21:21:08,681 | model state_dict has been saved in logs\model_AttentionSeq2Seq\hidden_size_32\bidirectional_True\num_layers_1\dropout_0.2\n_epoch_20/last.pth.tar
+2022-01-30 21:21:08,852 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-01-30 21:21:08,859 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-01-30 21:21:08,862 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-01-30 21:21:08,863 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-01-30 21:21:08,864 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-01-30 21:21:08,864 | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
